@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    place-items: center;
+    background-color: black;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    color: #e0e0e0;
+    display: grid;
+    place-items: center;
+    font-weight: 600 !important;
+    letter-spacing: 0.1rem !important;
+}
