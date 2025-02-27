@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/datetimeconverter/static/css/main.efee2f73.css",
+    "main.js": "/datetimeconverter/static/js/main.a484e8a3.js",
+    "service-worker.js": "/datetimeconverter/service-worker.js",
+    "index.html": "/datetimeconverter/index.html",
+    "main.efee2f73.css.map": "/datetimeconverter/static/css/main.efee2f73.css.map",
+    "main.a484e8a3.js.map": "/datetimeconverter/static/js/main.a484e8a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efee2f73.css",
+    "static/js/main.a484e8a3.js"
+  ]
+}
