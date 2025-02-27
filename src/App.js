@@ -74,7 +74,7 @@ const CustomMobileDateTimePicker = styled(MobileDateTimePicker)({
     },
 });
 
-const RetroExchangeRate = styled('div')({
+const RetroTimeRate = styled('div')({
     color: `${color}`,
     textAlign: 'center',
     fontSize: '1rem',
@@ -243,7 +243,7 @@ function App() {
                     <div id="loading" className="loading">{"Loading..."}</div>
                 ) : (
                     <>
-                        <RetroExchangeRate>{timeDifference}</RetroExchangeRate>
+                        <RetroTimeRate>{timeDifference}</RetroTimeRate>
                         <RetroCard>
                             {['from', 'to'].map((type) => (
                                 <div key={type} style={type === "to" ? {} : { marginBottom: '20px' }}>
